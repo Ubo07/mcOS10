@@ -2,7 +2,7 @@
 Minecraft OS (Windows 10)
 
 -- Türkçe
- - Bu işletim sistemi minecraft oyuncuları içindir. (Java/Bedrock)
+ - Bu işletim sistemi Minecraft oyuncuları içindir. (Java/Bedrock)
 
  - Hafif bir sistemdir çünkü gereksiz şeyleri sildim. (Modlu)
 
@@ -19,7 +19,7 @@ Minecraft OS (Windows 10)
 
 
 -- English
- - This operating system is for minecraft players (Java/Bedrock)
+ - This operating system is for Minecraft players (Java/Bedrock)
 
  - It's a lightweight system because I deleted unnecessary stuff. (Modded)
 
