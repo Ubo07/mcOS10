@@ -13,6 +13,8 @@ Minecraft OS (Windows 10)
  - İnstagram:@cscibubapro (lütfen takip edin😭)
 
  - Otomatik Minecraft Java yüklü geliyor
+
+ - (İndir)[https://github.com/Ubo07/mcOS10/releases]
 #
 
 
