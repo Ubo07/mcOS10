@@ -14,7 +14,7 @@ Minecraft OS (Windows 10)
 
  - Otomatik Minecraft Java yüklü geliyor
 
- - (İndir)[https://github.com/Ubo07/mcOS10/releases]
+ - İndirmek için Relases'e gidin.
 #
 
 
