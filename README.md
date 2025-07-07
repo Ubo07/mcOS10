@@ -31,5 +31,7 @@ Minecraft OS (Windows 10)
 
  - Comes automatically installed with Minecraft Java
 
+ - Go to Relases to download.
+
    (Translated by Deepl)
 #
